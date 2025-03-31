@@ -68,7 +68,7 @@ java KnapsackGUI
 This project is released under the **MIT License**. Feel free to use and modify it! 📝
 
 ## 👤 About the Developer
-👨‍💻 **Your Name**  
-📧 Email: [Email](nimmanirishik@gmail.com) 
-🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/nimmanirishik/)
+👨‍💻 **Sriram Nagendra**  
+📧 Email: [Email](nagendra3feb@gmail.com) 
+🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/nagendrasriram103/)
 
