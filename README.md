@@ -69,6 +69,5 @@ This project is released under the **MIT License**. Feel free to use and modify 
 
 ## 👤 About the Developer
 👨‍💻 **Sriram Nagendra**  
-📧 Email: [Email](nagendra3feb@gmail.com) 
 🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/nagendrasriram103/)
 
